@@ -13,5 +13,3 @@
   🌟HTTP
 - python2 scraper.py proxies_http.txt -t 50 -l http.txt
 ```
-
-
